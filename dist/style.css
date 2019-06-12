@@ -1,0 +1,51 @@
+#main {
+  text-align: center;
+  background-color: #FFF4DF;
+  font-family: "Georgia", Georgia, serif;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 5px;
+  margin: 30px, auto;
+}
+
+#title {
+  padding-top: 20px;
+  padding-bottom: 5px;
+  font-size: 2.5em;
+}
+
+#img-div {
+  background-color: white;
+}
+
+#image {
+  margin: auto;
+  max-width: 90%;
+  display: block;
+  padding: 15px;
+}
+
+figcaption {
+  font-variant: small-caps;
+}
+
+#list-header {
+  text-align: left;
+}
+
+#tribute-info {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}
+
+li {
+  margin: 15px;
+}
+
+#self {
+  padding: 10px;
+}
+
+
+
